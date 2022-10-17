@@ -1,6 +1,6 @@
 package Homeworkandexamples;
 
-public class Homeworks5 {
+public class Homework5 {
     public static void main(String[] args) {
        /* Write a code where it has variable double data type named Temp.
                 check if Temp is So Cold, Cold, Good, Hot or So Hot.
