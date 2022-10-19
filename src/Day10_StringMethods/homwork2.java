@@ -15,7 +15,7 @@ public class homwork2 {
         }else {
             System.out.println("invalid sentence");
         }
-
+        System.out.println("son");
 
 // blurry is a one of the color of blazer bottle
 
